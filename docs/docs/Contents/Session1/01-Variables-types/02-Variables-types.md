@@ -64,7 +64,7 @@ Here, the same variable `x` can hold values of different types at different time
 | Error detection  | Early (compile time)        | Late (runtime)                   |
 | Performance      | Generally faster at runtime | May be slower due to type checks |
 
-🟦 **Practice**  
+🟦 **Practice 1.1**  
 Can you think of a situation where dynamic typing would be helpful? And one where it could cause trouble?
 
 ---
@@ -73,7 +73,7 @@ Can you think of a situation where dynamic typing would be helpful? And one wher
 
 A **variable** is like a container that holds a value in memory. Every variable must have a **type** in C#, which defines what kind of data it can store.
 
-🟦 **Practice**  
+🟦 **Practice 1.2**  
 What is memory in a computer program? Why is it important when working with variables?
 
 ---
@@ -102,7 +102,7 @@ What happens if you try to assign a string value to a variable declared as an `i
 | `double` | Floating-point with high precision | `double pi = 3.14159;`     |
 | `char`   | A single Unicode character         | `char initial = 'A';`      |
 
-🟦 **Practice**  
+🟦 **Practice 1.3**  
 Define three variables: a student's age, their first name, and whether they passed the exam.
 
 ---
@@ -140,7 +140,7 @@ C# supports many more useful types:
 
 ---
 
-🟦 **Practice**
+🟦 **Practice 1.4**
 
 Write code to declare the following:
 
