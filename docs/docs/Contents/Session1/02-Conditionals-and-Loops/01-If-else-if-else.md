@@ -51,7 +51,7 @@ What will be printed if `grade` is 70? What about 95?
 
 ---
 
-🟦 **Practice**  
+🟦 **Practice 1.1**  
 Write a conditional that prints different messages for ages:
 
 - Under 18: “Minor”
@@ -88,7 +88,7 @@ else
 
 ---
 
-🟦 **Practice**
+🟦 **Practice 1.2**
 
 Think about 3 real-life situations where you make decisions based on conditions — like the sunglasses example.
 
